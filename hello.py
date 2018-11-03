@@ -49,6 +49,7 @@ state_capitals = {
     'Georgia': 'Atlanta'
 }
 
+
 for k in state_capitals.keys():
     #print('{} is the capital of {}'.format(state_capitals[k], k))
     print(f"{state_capitals[k]} is the capital of {k}")
